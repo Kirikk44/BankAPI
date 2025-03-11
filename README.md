@@ -3,7 +3,8 @@
 М8О-114СВ-24
 ## Схема API:
 
-![apipng](images/schemeAPI.png)
+![image](https://github.com/user-attachments/assets/6171953d-414c-4d39-b10d-16d2b14d65ef)
+
 
 1.	POST /v1/auth/register – этот эндпоинт является единственным эндпоинтом, не защищённым с помощью OAuth2. Он принимает логин и пароль пользователя и добавляет соответствующую запись в базу.
 Body запроса в формате JSON:
