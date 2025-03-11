@@ -2,7 +2,8 @@
 Малков Кирилл Евгеньевич
 М8О-114СВ-24
 ## Схема API:
-![apibank drawio (4)](https://github.com/user-attachments/assets/3e5c70e8-e033-4746-9540-2f191f302f20)
+![apibank drawio (4)](https://github.com/user-attachments/assets/f641b081-2bc9-4ee4-b81e-78948baedb74)
+
 
 
 1.	POST /v1/auth/register – этот эндпоинт является единственным эндпоинтом, не защищённым с помощью OAuth2. Он принимает логин и пароль пользователя и добавляет соответствующую запись в базу.
